@@ -120,11 +120,22 @@ Full measure documentation:
 The report is structured across multiple analytical domains:
 
 1. Executive Overview
-2. Sales & Customer Analytics
+<img width="1007" height="565" alt="Screenshot 2026-02-11 at 10 45 25 AM" src="https://github.com/user-attachments/assets/719bebb0-448b-4f46-a285-de4372a118ed" />
+
+2. Sales
+<img width="1012" height="570" alt="Screenshot 2026-02-11 at 10 46 32 AM" src="https://github.com/user-attachments/assets/c03997b6-fd2d-41c4-ba06-75aa9b81e6f5" />
+
 3. Production Performance
+<img width="1008" height="567" alt="Screenshot 2026-02-11 at 10 46 00 AM" src="https://github.com/user-attachments/assets/25d804ed-864e-4fdd-9284-75150f74f444" />
+
 4. Procurement & Supplier Efficiency
+<img width="1007" height="565" alt="Screenshot 2026-02-11 at 10 45 40 AM" src="https://github.com/user-attachments/assets/f32cdece-5d92-4ed8-9590-3d626d024174" />
+
 5. Inventory Optimization
+<img width="1011" height="569" alt="Screenshot 2026-02-11 at 10 46 09 AM" src="https://github.com/user-attachments/assets/9365d4ce-1eee-419f-ae40-7d1d5cb3aa92" />
+
 6. Shipment & Logistics Monitoring
+<img width="1005" height="568" alt="Screenshot 2026-02-11 at 10 46 23 AM" src="https://github.com/user-attachments/assets/399f7c19-eb51-426d-8d2f-1a53e9eb3dcf" />
 
 Each page focuses on actionable metrics rather than descriptive reporting.
 

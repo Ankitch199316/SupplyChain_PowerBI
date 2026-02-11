@@ -1,0 +1,21 @@
+product_id,product_key,product_name,category,product_line,spec,color,unit_price,Img
+1,SMRT-GS24U-512-BLK,Galaxy S24 Ultra,Smartphone,Galaxy S,512GB,Black,1199.99,https://i.ibb.co/9Hv19S22/s24-Ultra.webp
+2,SMRT-GS24U-256-GRY,Galaxy S24 Ultra,Smartphone,Galaxy S,256GB,Gray,1099.99,https://i.ibb.co/9Hv19S22/s24-Ultra.webp
+3,SMRT-GS24-256-VLT,Galaxy S24,Smartphone,Galaxy S,256GB,Violet,799.99,https://i.ibb.co/gMJgXrhG/s24.webp
+4,SMRT-GS23-128-CRM,Galaxy S23,Smartphone,Galaxy S,128GB,Cream,699.99,https://i.ibb.co/tPH2nTkP/s23.webp
+5,SMRT-GZ5F-512-BLK,Galaxy Z Fold5,Smartphone,Galaxy Z,512GB,Black,1799.99,https://i.ibb.co/tPnpz3yp/Folf5.webp
+6,SMRT-GZ5F-256-BLU,Galaxy Z Fold5,Smartphone,Galaxy Z,256GB,Blue,1599.99,https://i.ibb.co/kgXHN1Nh/fold-5-2.webp
+7,SMRT-GA54-128-BLK,Galaxy A54,Smartphone,Galaxy A,128GB,Black,449.99,https://i.ibb.co/HDYmTQ8b/a54.webp
+8,SMRT-GA34-64-WHT,Galaxy A34,Smartphone,Galaxy A,64GB,White,349.99,https://i.ibb.co/F4br0pKx/a34.webp
+9,TBLT-GTS9U-512-GRY,Galaxy Tab S9 Ultra,Tablet,Tab S,512GB,Gray,1199.99,https://i.ibb.co/v6MTK3p6/s9.webp
+10,TBLT-GTS9-256-BLK,Galaxy Tab S9,Tablet,Tab S,256GB,Black,799.99,https://i.ibb.co/Xf1xx78G/tab-s9-ultra.webp
+11,TBLT-GTA9-128-SLV,Galaxy Tab A9,Tablet,Tab A,128GB,Silver,299.99,https://i.ibb.co/p67NdXxW/tab-a9.webp
+12,TV-QLED85-85IN-BLK,"QLED 85"" 4K",Television,QLED,85 inch,Black,2799.99,https://i.ibb.co/MDMdXTmG/q-85.webp
+13,TV-QLED75-75IN-BLK,"QLED 75"" 4K",Television,QLED,75 inch,Black,1999.99,https://i.ibb.co/KzKrmT0s/q-75.webp
+14,TV-OLED65-65IN-BLK,"OLED 65"" 4K",Television,OLED,65 inch,Black,2499.99,https://i.ibb.co/mw7XszY/q-65.webp
+15,TV-CRYS55-55IN-BLK,"Crystal UHD 55""",Television,Crystal,55 inch,Black,699.99,https://i.ibb.co/nsB3JCLs/Crystal-UHD-55.webp
+16,APPL-RF28-4DR-SS,Family Hub Refrigerator,Appliance,Refrigerator,28 cu ft,Stainless,3299.99,https://i.ibb.co/N2MSq6ZX/Family-Hub-Refrigerator.webp
+17,APPL-WM50-FRT-WHT,Front Load Washer,Appliance,Washer,5.0 cu ft,White,1099.99,https://i.ibb.co/xqKy25zv/Front-Load-Washer.webp
+18,APPL-DW24-BLT-BLK,Built-in Dishwasher,Appliance,Dishwasher,24 inch,Black,799.99,https://i.ibb.co/hJJjm4wW/Built-in-Dishwasher.webp
+19,WEAR-GW6-44MM-BLK,Galaxy Watch6,Wearable,Watch,44mm,Black,329.99,https://i.ibb.co/KzjsL0KT/Galaxy-Watch6.webp
+20,WEAR-GB2P-GRY,Galaxy Buds2 Pro,Wearable,Earbuds,Standard,Gray,229.99,https://i.ibb.co/j9vPKWS2/Galaxy-Buds2-Pro.webp

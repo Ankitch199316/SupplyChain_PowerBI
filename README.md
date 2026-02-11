@@ -162,7 +162,9 @@ Supply-Chain-Control-Tower/
 ├── DAX_Notes.md
 ├── Business_Questions.md
 ├── Data_Model.md
-├── Screenshots/
+├── SupplyChain_dashboard.pdf
+├── DAX_Overview.md
+├── Samsung.pbix
 ├── Data/
 ```
 
